@@ -1,0 +1,11 @@
+{
+  "374958318": {
+    "name": "graftor.szm C2 traffic",
+    "description": "This signature detects Wgeneric Command and Control Traffic. Command and Control traffic indicates the presence of potentially infected systems and should be investigated as soon as possible."
+  },
+  "126048": {
+    "name": "Rogue AP",
+    "description": "This event indicates that an access point, classified as Suspected Rogue, is detected by the system. The AP is suspected to be rogue with the supplied confidence level."
+  }
+  
+}
