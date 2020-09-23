@@ -7,5 +7,5 @@
     "name": "SSL Weak Cipher Suite Selection Vulnerability",
     "description": "SSL is prone to spoofing vulnerability while using DES/3DES encryption algorithms. The vulnerability is due to the lack of proper checks on encryption method in SSL Server Hello responses, leading to an exploitable man-in-the-middle. An attacker could exploit the vulnerability by intercepting packets. A successful attack could lead to man-in-the-middle attack."
   }
-  
+
 }
